@@ -1,0 +1,3 @@
+All of your "static" assets will go here...
+
+assets like "css/sass", "javascript", "images", etc.

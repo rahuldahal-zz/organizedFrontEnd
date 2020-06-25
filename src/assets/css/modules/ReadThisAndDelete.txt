@@ -1,0 +1,13 @@
+All the CSS "modules" will go inside the "modules" directory
+
+example of CSS modules can be,
+
+typography.css
+navigation.css
+awesomeSideBar.css
+
+also,
+_media.scss
+_sassVars.scss
+
+...these will go inside the "modules" directory

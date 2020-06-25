@@ -1,0 +1,9 @@
+All the JavaScript "modules" will go inside the "modules" directory
+
+example of modules can be,
+
+navBarHandler.js
+localStorageHandler.js
+fetchTweets.js, etc
+
+...these will go inside the "modules" directory
