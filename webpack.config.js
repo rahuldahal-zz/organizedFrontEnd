@@ -56,7 +56,7 @@ if (currentTask === "dev") {
 
     config.mode = "development";
     config.output = {
-        filename: "raahul.js",
+        filename: "bundled.js",
         path: path.resolve(__dirname, "src")
     };
     config.devServer = {
